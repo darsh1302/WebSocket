@@ -1,0 +1,8 @@
+C:\Users\DS\source\repos\Realtime.Server.MetroLineLogic\bin\Debug\netstandard2.0\Realtime.Server.MetroLineLogic.deps.json
+C:\Users\DS\source\repos\Realtime.Server.MetroLineLogic\bin\Debug\netstandard2.0\Realtime.Server.MetroLineLogic.dll
+C:\Users\DS\source\repos\Realtime.Server.MetroLineLogic\bin\Debug\netstandard2.0\Realtime.Server.MetroLineLogic.pdb
+C:\Users\DS\source\repos\Realtime.Server.MetroLineLogic\obj\Debug\netstandard2.0\Realtime.Server.MetroLineLogic.csprojAssemblyReference.cache
+C:\Users\DS\source\repos\Realtime.Server.MetroLineLogic\obj\Debug\netstandard2.0\Realtime.Server.MetroLineLogic.AssemblyInfoInputs.cache
+C:\Users\DS\source\repos\Realtime.Server.MetroLineLogic\obj\Debug\netstandard2.0\Realtime.Server.MetroLineLogic.AssemblyInfo.cs
+C:\Users\DS\source\repos\Realtime.Server.MetroLineLogic\obj\Debug\netstandard2.0\Realtime.Server.MetroLineLogic.dll
+C:\Users\DS\source\repos\Realtime.Server.MetroLineLogic\obj\Debug\netstandard2.0\Realtime.Server.MetroLineLogic.pdb
